@@ -1,4 +1,4 @@
-# Healthcare-Claims---Where-Is-the-Money-Going-
+# Healthcare-Claims---Where-Is-the-Money-Going?
 Data Analyst at a health insurer: analyze a synthetic claims dataset (demographics; inpatient/outpatient/ER/pharmacy; ICD/CPT; billed vs. paid) to identify which services, procedures, and members drive the highest healthcare costs.
 
 **Goal:** Find what drives healthcare spend and where reimbursement differs from billed amounts by analyzing claim types, CPT/ICD codes, members, and providers.
